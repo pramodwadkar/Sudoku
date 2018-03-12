@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="solved">Sudoku Solved</string>
+    <string name="cannot_solved">Cannot be solved</string>
+</resources>
